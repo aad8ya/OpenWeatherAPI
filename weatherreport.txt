@@ -1,0 +1,35 @@
+------------Delhi-------------
+Temperature: 29.52000000000004 Celsius
+Humidity: 29 %
+Pressure: 1010 hPa
+Weather Report: haze
+----------Hyderabad-----------
+Temperature: 30.57000000000005 Celsius
+Humidity: 45 %
+Pressure: 1013 hPa
+Weather Report: scattered clouds
+------------Mumbai------------
+Temperature: 33.0 Celsius
+Humidity: 33 %
+Pressure: 1008 hPa
+Weather Report: smoke
+----------Bangalore-----------
+Temperature: 28.810000000000002 Celsius
+Humidity: 54 %
+Pressure: 1014 hPa
+Weather Report: few clouds
+-----------Chennai------------
+Temperature: 29.0 Celsius
+Humidity: 74 %
+Pressure: 1009 hPa
+Weather Report: few clouds
+-----------Kolkata------------
+Temperature: 31.0 Celsius
+Humidity: 66 %
+Pressure: 1006 hPa
+Weather Report: haze
+----------Coimbatore----------
+Temperature: 28.0 Celsius
+Humidity: 74 %
+Pressure: 1012 hPa
+Weather Report: light rain
